@@ -9,5 +9,5 @@
 		Development. I love learning new technologies and sharing my knowledge
 		with others.
   </p>
-  <a href="https://kaptcha0.github.io/resume">View My Resume</a>
+  <a href="https://kaptcha.cc/resume">View My Resume</a>
 </section>
