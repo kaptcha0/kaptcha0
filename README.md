@@ -1,8 +1,8 @@
 <section>
-  <img src="https://kaptcha0.github.io/favicon.svg" height="128" alt="kaptcha0 pfp">
+  <img src="https://kaptcha.cc/favicon.svg" height="128" alt="kaptcha0 pfp">
   <h1>Welcome</h1>
   <p>
-    Hi, I'm J'C Kabunga, also known as <b>kaptcha_</b>
+    Hi, I'm J'C Kabunga, also known as <b>kaptcha</b>
     <br>
     I'm a passionate cybersecurity enthusiast and bug bounty hunter with
 		expertise in IT Administration, Capture the Flag competitions, and Web
